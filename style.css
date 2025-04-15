@@ -1,0 +1,86 @@
+body{
+    margin:0;
+}
+.main-body{
+    width:100%;
+    height:2000px;
+    background-color: black;
+}
+.site-branding{
+    text-align: center;
+    padding-top: 15px;
+}
+.company-name{
+font-family: "Playfair Display", serif;
+font-size: 38px;
+font-weight: 400;
+line-height: 43.7px;
+color: white;
+text-decoration: none;
+
+}
+.company-name:hover{
+    color: rgb(219, 79, 61);
+    transition: color 0.3s ease-in-out;
+}
+.site-description{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: rgb(183, 183, 183);
+}
+.line1{
+    color: rgb(183, 183, 183);
+    line-height: 1px;
+    width:80%;
+    margin-left: 120px;
+}
+.site-header-menu{
+    text-align: center;
+    padding:10px;
+    padding-bottom: 15px;
+}
+.nav-style{
+    color: white;
+    text-decoration: none;
+    margin:10px;
+}
+.nav-style:hover{
+    color: rgb(219, 79, 61);
+    transition: color 0.3s ease-in-out;
+}
+.para1{
+    font-family: Roboto, sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(153, 153, 153);
+    padding:50px;
+    text-align: center;
+    line-height:1.8;
+}
+.image2{
+    padding-left:200px;
+}
+.footer-icons{
+    width:30px;
+    border-radius:50%;
+    padding:30px;
+}
+.icons{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.footer{
+    text-align: center;
+    color:white;
+}
+.footer1{
+    text-decoration: none;
+    color:white;
+}
+.footer1:hover{
+    color: rgb(219, 79, 61);
+}
